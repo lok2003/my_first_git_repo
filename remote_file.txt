@@ -1,2 +1,6 @@
 Hi new changes are add in remote repo for my_first_git_repo
+<<<<<<< HEAD
 Local edit
+=======
+Update from remote
+>>>>>>> 4bbb4cbd20810025717b8fcb141189a9a6508279
